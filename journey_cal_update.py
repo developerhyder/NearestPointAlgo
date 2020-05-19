@@ -1,7 +1,7 @@
 
 import pandas as pd
 
-df = pd.read_csv('/content/drive/My Drive/one_journey.csv')
+df = pd.read_csv('csv file')
 df.columns
 
 
